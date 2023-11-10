@@ -1,0 +1,85 @@
+.btn-light {
+  padding: 19px 60px;
+  color: #FFF;
+  text-align: center;
+  font-family: DM Sans;
+  font-size: 17px;
+  font-weight: 700;
+  letter-spacing: -0.531px;
+  background: #FF7143;
+}
+
+.link-offset-2 {
+  color: #696871;
+  font-family: DM Sans;
+  font-size: 15px;
+  font-weight: 700;
+  letter-spacing: -0.469px;
+}
+
+.hero {
+  padding-top: 50px;
+}
+
+.list {
+  display: flex;
+  gap: 30px;
+}
+
+.rounded-circle {
+  border-radius: 50px;
+}
+
+.button {
+  background: #5454D4;
+}
+
+.subscription {
+  color: #19191B;
+  font-family: DM Sans;
+  font-size: 50px;
+  font-weight: 700;
+  line-height: 57px;
+  letter-spacing: -1.563px;
+}
+
+.substion-text {
+  color: #696871;
+  font-family: Mulish;
+  font-size: 20px;
+  line-height: 30px;
+  letter-spacing: -0.625px;
+}
+
+.link {
+  color: #5454D4;
+  font-family: DM Sans;
+  font-size: 17px;
+  font-weight: 700;
+  letter-spacing: -0.531px;
+}
+
+.date {
+  border-radius: 10px;
+  background: #F7F7FB;
+  padding: 10px;
+}
+
+.active {
+  padding: 18px 45px;
+  color: #FfF;
+  text-align: center;
+  font-family: DM Sans;
+  font-weight: 700;
+  letter-spacing: -0.5px;
+  text-decoration: none;
+}
+
+.active:first-child {
+  background: #5454D4;
+  border-radius: 10px 0 0 10px;
+}
+
+.active:last-child {
+  color: #000000;
+}
